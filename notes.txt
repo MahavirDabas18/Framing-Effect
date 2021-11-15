@@ -1,0 +1,4 @@
+1) instances that match a retrieval constraint- inst 0,3 clubbed together
+
+2) wrongly marked instances in matlab code- just look at first user
+instance 1 has been assigned high with decision 1 but decision 1 is safe option with 200 payoff
